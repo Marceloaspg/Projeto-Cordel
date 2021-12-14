@@ -95,6 +95,11 @@ section p {
     background-image: url('../imagens/background002.jpg');
 }
 
+#img03 {
+    background-image: url('../imagens/pexels.jpg');
+    background-position: center center;
+}
+
 footer {
     background-color: black;
     text-align: center;
